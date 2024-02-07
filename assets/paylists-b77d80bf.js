@@ -1,0 +1,1 @@
+const a={id:"ID",pay_name:"通道名称",shop_num:"商户号",key:"key",api_url:"api地址",status:"状态","status 0":"禁用","status 1":"启用",class_name:"类名字",recharge_notify:"充值回调地址",cash_out_notify:"提现回调地址","quick Search Fields":"ID"};export{a as default};

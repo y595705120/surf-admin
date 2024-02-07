@@ -1,0 +1,1 @@
+const i={id:"id",cate_name:"cate_name",weigh:"weigh",code:"code",is_login:"is_login","is_login 0":"is_login 0","is_login 1":"is_login 1",image:"image",country_code:"country_code",is_id:"is_id","is_id 0":"is_id 0","is_id 1":"is_id 1","quick Search Fields":"id"};export{i as default};

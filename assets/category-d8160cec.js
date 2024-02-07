@@ -1,0 +1,1 @@
+const i={id:"ID",cate_name:"分类名字",weigh:"排序",code:"分类简码",is_login:"需要登录","is_login 0":"不需要","is_login 1":"需要",image:"分类图标",country_code:"币种",is_id:"根据id","is_id 0":"否","is_id 1":"是","quick Search Fields":"ID"};export{i as default};

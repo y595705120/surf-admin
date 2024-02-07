@@ -1,0 +1,1 @@
+const t={id:"ID",uid:"用户ID",money:"充值金额",create_time:"充值时间",update_time:"更新时间",status:"状态","status 1":"支付中","status 2":"成功","status 3":"失败",order:"订单号",first_charge:"首充状态","first_charge 1":"首充","first_charge 0":"否",pay_url:"支付地址",f_money:"支付金额分为单位",is_gift:"1充值赠送*2   0 不参与",pay_chan:"通道",is_gift2:"免打码活动","quick Search Fields":"ID"};export{t as default};

@@ -1,0 +1,1 @@
+const e={uid:"用户ID",transaction_id:"记录的唯一请求标识",parent_bet_id:"投注的母投注id",bet_id:"投注的子投注id",old_balance:"用户投注前余额",bet_time:"投注时间",bet_money:"投注金额",win_money:"赢得金额",transfer_amount:"输赢金额",game_id:"游戏id",game__game_code:"游戏识别码",new_money:"变动后余额",game_code:"游戏平台",gamecodetable__code:"分类简码","quick Search Fields":"id"};export{e as default};

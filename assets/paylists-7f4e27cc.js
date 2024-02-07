@@ -1,0 +1,1 @@
+const s={id:"id",pay_name:"pay_name",shop_num:"shop_num",key:"key",api_url:"api_url",status:"status","status 0":"status 0","status 1":"status 1",class_name:"class_name",recharge_notify:"recharge_notify",cash_out_notify:"cash_out_notify","quick Search Fields":"id"};export{s as default};
