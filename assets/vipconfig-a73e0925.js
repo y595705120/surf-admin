@@ -1,1 +1,0 @@
-const e={id:"ID",vip_level:"vip等级",recharge_money:"充值金额",pay_money:"投注金额",cashout_num:"每日提现次数",cashout_rate:"提现费率（百分比）",cashout_money:"单比提现限额",day_cashout_money:"每日提现限额",wager_rate:"投注奖励（百分比）",sing_in:"签到奖励金额",image_url:"图片地址",commission_money:"升级奖励",week_money:"周签到奖励",month_money:"月签到奖励","quick Search Fields":"ID"};export{e as default};
